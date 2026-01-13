@@ -12,7 +12,6 @@
 - **Imperial College London** — *C++ Design Patterns for Low-Latency Applications (including High-Frequency Trading)*  
 - **UCL** — *Mid-Air Haptic Touch Technology for Social Interaction in Human–Computer Interaction*  
 - **University of Oxford** — *Computational Modelling of Dwell Fatigue Failure in Ti-6Al-4V Aero-engines*  
-- *Computational Modelling of Dwell Fatigue Failure in Ti-6Al-4V Aero-engines*  
 - **Queen's University Belfast** — *Artificial Neural Network modelling of mechanical properties in new advanced materials*  
 
 ### Professional Experience
