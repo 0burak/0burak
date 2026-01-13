@@ -10,6 +10,13 @@ Born in Gaziantep, I'm a Kurdish-British computer scientist and engineer based i
 
 ---
 
+### Technical Skills
+- **Computing:** C/C++, Python, Java, kdb+/q, SQL, MATLAB, Linux, Git  
+- **Machine Learning:** TensorFlow, scikit-learn, theano, keras, NLP, PyTorch  
+- **Engineering:** SolidWorks, AutoCAD, Ansys, OpenFOAM
+
+---
+
 ### Scholarships, Honours & Awards
 - **University of Oxford** — Summer Research Scholarship  
 - **Queen's University Belfast** — Veryan Stephens Prize *(Highest Grade in Thesis)*  
@@ -37,13 +44,6 @@ Born in Gaziantep, I'm a Kurdish-British computer scientist and engineer based i
 ### Publications & Manuscripts
 - **Bilokon, P., Gunduz, B.** *C++ design patterns for low-latency applications including high-frequency trading.* (2023)  
   SSRN — *under review, preprint*
-
----
-
-### Technical Skills
-- **Computing:** C/C++, Python, Java, kdb+/q, SQL, MATLAB, Linux, LaTeX  
-- **Machine Learning:** TensorFlow, scikit-learn, theano, keras, NLP, PyTorch  
-- **Engineering:** SolidWorks, AutoCAD, Ansys, OpenFOAM  
 
 ---
 
