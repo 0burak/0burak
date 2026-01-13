@@ -1,5 +1,7 @@
 ### Hi, I’m Burak 
 
+Born in Gaziantep, I'm a Kurdish-British computer scientist and engineer based in London.
+
 ### Education
 - **MSc Computing**, Imperial College London  
 - **BEng Aerospace Engineering**, Queen’s University Belfast  
