@@ -41,10 +41,4 @@ Born in Gaziantep, I'm a Kurdish-British computer scientist and engineer based i
 
 ---
 
-#### Publications & Manuscripts
-- **Bilokon, P., Gunduz, B.** *C++ design patterns for low-latency applications including high-frequency trading.* (2023)  
-  SSRN — *under review, preprint*
-
----
-
 Website: [ bmgunduz.com ](https://bmgunduz.com)
